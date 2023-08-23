@@ -1,0 +1,9 @@
+pytest~=7.4.0
+pytest-selenium
+termcolor~=2.3.0
+allure-python-commons
+selenium~=4.11.2
+beautifulsoup4~=4.12.2
+2captcha-python~=1.2.1
+pages~=0.3
+TwoCaptcha~=0.0.1
